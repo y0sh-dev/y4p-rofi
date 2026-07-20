@@ -8,7 +8,7 @@ use std::path::Path;
 use std::process::{Command, Stdio};
 
 const CACHE_DIR: &str = "/tmp/y1-clip-gui-cache";
-const BIN: &str = "y1-clipboard";
+const BIN: &str = "y4-clipboard";
 const LIST_DEPTH: &str = "0-120";
 
 fn main() {
