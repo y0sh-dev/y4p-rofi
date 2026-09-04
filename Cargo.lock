@@ -54,8 +54,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "y1-clip-gui"
-version = "1.0.0"
+name = "y4p-rofi"
+version = "0.2.0"
 dependencies = [
  "rayon",
 ]
