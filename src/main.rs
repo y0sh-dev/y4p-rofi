@@ -7,8 +7,8 @@ use std::io::Write;
 use std::path::Path;
 use std::process::{Command, Stdio};
 
-const CACHE_DIR: &str = "/tmp/y1-clip-gui-cache";
-const BIN: &str = "y4-clipboard";
+const CACHE_DIR: &str = "/tmp/y4p-rofi-cache";
+const BIN: &str = "y4p";
 const LIST_DEPTH: &str = "0-120";
 
 fn main() {
